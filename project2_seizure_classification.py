@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Lilly Roelofs - 1875385 
-Project 2: Data Analysis & Modeling 
-BIOE 4308 - Dr. Romero-Ortega
+Lilly Roelofs 
 Classifying seizure occurence 
 """
 
